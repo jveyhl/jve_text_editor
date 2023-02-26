@@ -19,21 +19,15 @@ N/A
 
 ## Screenshots
 
-![Alt text](/public/images/1.png)
-![Alt text](/public/images/2.png)
-![Alt text](/public/images/3.png)
-![Alt text](/public/images/4.png)
-![Alt text](/public/images/5.png)
-![Alt text](/public/images/6.png)
-![Alt text](/public/images/7.png)
+![Alt text](/client/src//images/1.png)
 
 ## Deployed Application
 
-ADD LINK TO HEROKU HERE...
+https://text-editor-jve26feb2023.herokuapp.com/
 
 ## Usage
 
-- UPDATE THIS SECTION...
+N/A
 
 ## Credits
 
