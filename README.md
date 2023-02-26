@@ -2,7 +2,7 @@
 
 ## Description
 
-A a simple text editor with JavaScript syntax highlighting. The text editor IS a progressive web application (PWA), which will enable users to install and use it offline. The application IS bundled with webpack and will take advantage of Babel to use modern JavaScript in the browser.
+A simple text editor with JavaScript syntax highlighting. The text editor IS a progressive web application (PWA), which will enable users to install and use it offline. The application IS bundled with webpack and will take advantage of Babel to use modern JavaScript in the browser.
 
 ## Table of Contents
 
